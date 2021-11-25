@@ -1,0 +1,12 @@
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\bin\Debug\Proyecto_Prueba.exe.config
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\bin\Debug\Proyecto_Prueba.exe
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\bin\Debug\Proyecto_Prueba.pdb
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\bin\Debug\Proyecto_Prueba.xml
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.vbprojAssemblyReference.cache
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.Form1.resources
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.Resources.resources
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.vbproj.GenerateResource.cache
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.vbproj.CoreCompileInputs.cache
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.exe
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.xml
+C:\Users\Temporal\source\repos\Proyecto_Prueba\Proyecto_Prueba\obj\Debug\Proyecto_Prueba.pdb
